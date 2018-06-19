@@ -1,4 +1,7 @@
 # The use of isometric log ratios to classify phosphorus attributes in composts
+
 *Bernard Gagnon, Serge-Étienne Parent, Dalel Abdi, Noura Ziadi, and Léon-Etienne Parent*
+
+https://doi.org/10.1139/CJSS-2016-0139
 
 This research aimed to classify 16 horticultural composts collected across Canada into management group according to their P fractions and C content using isometric log ratio (ilr) and to interpret the clusters against the total P content and C-to-P ratio indices. The ilr approach was found to be more discriminant for grouping the composts compared with the conventional statistical analysis. The C-to-P ratio index was representative of cluster 1 only. This cluster included organic amendments with C-to-P ratios higher than 100 and high capacity to increase soil organic matter content without excessive P dosage. Total P separated clusters 2 and 3 despite the amalgamation of P forms into total P. Cluster 2 showed high total P (> 10 g P kg-1) and low C-to-P ratios (24-38) whereas cluster 3 showed variable C-to-P ratios (18-78) and total P less than 9 g kg-1 after excluding one compost close to cluster 2. Clusters 2 and 3 were considered as potential sources of plant-available P. The ilr approach suggests that composts made of municipal biosolids and poultry manures in cluster 2 have the highest potential as plant-available P source compared to those made of other livestock manures or food processing wastes.
